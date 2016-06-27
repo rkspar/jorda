@@ -643,7 +643,7 @@ ul.widget_links li a:hover, ul.widget_links li a:focus, ul.widget_links li.activ
   height: auto;
 }
 #main-navigation .navbar-brand{
-	padding:24px 0;
+	padding:15px 0;
 }
 #navigation.affix .navbar-brand{
 	padding:14px 0;
@@ -2400,7 +2400,7 @@ font-size: 12px;
   max-width:140px;
 }
 .navbar-brand > img{
- width:75%;
+ width:20%;
 }
 .navbar-default .navbar-nav > li > a {
   font-size: 12px;
